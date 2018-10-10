@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ObserverPattern:war exploded">
+    <output-path>$PROJECT_DIR$/ProxyAndDecorator/out/artifacts/ObserverPattern_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ObserverPattern/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ObserverPattern" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

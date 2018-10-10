@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="javax.annotation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DynamicProxy/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DynamicProxy/lib/javax.resource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DynamicProxy/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DynamicProxy/lib/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DynamicProxy/lib/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DynamicProxy/lib/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DynamicProxy/lib/javax.transaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DynamicProxy/lib/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DynamicProxy/lib/javax.servlet.jsp.jstl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
